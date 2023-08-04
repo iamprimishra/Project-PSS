@@ -6,10 +6,15 @@ Lifts or elevators are an indispensable part of modern life, especially in tall 
 
 ## Features
 **Normal Lift Operation**: Project PSS functions as a normal lift, allowing passengers to move to various floors using push buttons, ensuring convenient and efficient transportation in regular situations.
+
 **Emergency Power Supply**: In the event of a power failure, an emergency power supply using a battery backup system kicks in, providing power to the lift's control panel and other essential systems. This ensures that the lift remains operational during power outages.
+
 **Emergency Brake**: A critical safety feature of the system is the inclusion of an emergency brake. This mechanical brake automatically engages in case of a power failure or electrical malfunction, preventing the lift from uncontrolled movements and ensuring passenger safety.
+
 **Buzzer Alert**: To notify passengers and lift operators about the emergency situation, a piezo buzzer is employed. It emits a loud sound to alert everyone within the vicinity of the lift, prompting them to take necessary precautions.
+
 **Auto Landing at Ground Floor**: The landing controller, an electronic system, takes charge during emergencies and guides the lift's descent to ensure a safe landing at the ground floor. This feature avoids abrupt stops between floors, preventing potential injuries to passengers.
+
 **Door Opening via Push Button**: After a safe landing at the ground floor, the lift's doors are automatically opened using a push button, enabling passengers to exit the lift safely.
 
 ## Components Used
