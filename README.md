@@ -19,16 +19,26 @@ Lifts or elevators are an indispensable part of modern life, especially in tall 
 
 ## Components Used
 **Arduino UNO**: The main microcontroller responsible for coordinating all the systems and components in the ProLift Safety System.
+
 **Arduino NANO**: An additional microcontroller used for specific tasks and functions within the system.
+
 **Side Shaft Motor & Pulley**: The primary motor responsible for lifting and lowering the elevator.
+
 **Servo Motor**: Controls the door-opening mechanism in the lift.
+
 **Piezo Buzzer**: Emits an audible alert in emergency situations to inform passengers and operators.
 **Resistors (100 & 1K ohms)**: Used in various circuitry to manage current and voltage.
+
 **L293D IC Motor Driver**: Facilitates motor control and direction in the system.
+
 **Bread Board Large & Mini**: Provides a platform for prototyping and connecting electronic components.
+
 **Push Buttons**: Enables passengers to select the desired floor within the lift.
+
 **16x2 i2c LCD Display**: Displays essential information and messages to passengers and operators.
+
 **9V Battery**: Powers the emergency backup system, ensuring functionality during power failures.
+
 **Connecting & Jumper Wires**: Essential for establishing connections between various components in the system.
 
 ## Conclusion
